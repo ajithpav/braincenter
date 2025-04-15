@@ -11,7 +11,7 @@ This repository contains a Rasa-based chatbot project. Follow the instructions b
 
 ## Clone the repository:
 
-**git clone https://github.com/DroidalAdmin/ai_chatbots.git**
+**git clone https://github.com/DroidalAdmin/ai_chatbots.git](https://github.com/ajithpav/braincenter.git**
 **cd ai_chatbots**
 
 Create and activate a virtual environment:
